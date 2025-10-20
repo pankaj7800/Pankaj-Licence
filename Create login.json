@@ -29,6 +29,8 @@
       "device_id": "4ba6b1ad6adb6314",
       "password": "bhupendra1",
       "expire_date": "2025-10-25"
-    }
-  ]
-}
+    },
+    {
+      "device_id": "offline-device",
+      "password": "chodudurgesh",
+      "expire_date": "2025-10-21"
